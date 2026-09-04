@@ -1,16 +1,16 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Checks for and downloads the latest ISOs for Linux, Windows, and diagnostic tools, with checksum verification",
     "homepage": "https://github.com/arnaudcharles/iso-auto-downloader",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/arnaudcharles/iso-auto-downloader/releases/download/v0.1.1/iso-auto-downloader_0.1.1_windows_amd64.zip",
-            "hash": "5f9e4c6f87d462452665e9eeefb8a3b9cc6ff2ff00213ad976fcbe0a11ee6813"
+            "url": "https://github.com/arnaudcharles/iso-auto-downloader/releases/download/v0.1.2/iso-auto-downloader_0.1.2_windows_amd64.zip",
+            "hash": "e1c37e1b8b6cef92b048784589051ef43f16e304ee77449f7b32369cc24da4ed"
         },
         "arm64": {
-            "url": "https://github.com/arnaudcharles/iso-auto-downloader/releases/download/v0.1.1/iso-auto-downloader_0.1.1_windows_arm64.zip",
-            "hash": "1d0ec5e486968eabce2f2618586e4b9b19b5843fafd806123f41fb3b3e8b4ac0"
+            "url": "https://github.com/arnaudcharles/iso-auto-downloader/releases/download/v0.1.2/iso-auto-downloader_0.1.2_windows_arm64.zip",
+            "hash": "fe4f6964de9a95ea4870f0264a9a1b1f4624bc2297c9cbc8e12e62bbee67cda8"
         }
     },
     "bin": "iso-auto-downloader.exe",
